@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Mahjika\source\repos\Drzewo_\Debug\BT_UnitTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="FUNCTION_TEST.Test_Insert_Node" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
